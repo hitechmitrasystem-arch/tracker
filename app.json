@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "My Tracker - NoFap Mode",
+    "slug": "my-tracker-nofap-mode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.offline.mytrackernofap",
+      "permissions": []
+    },
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
